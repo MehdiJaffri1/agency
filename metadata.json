@@ -1,0 +1,6 @@
+{
+  "name": "Mexan Tech",
+  "description": "Premium Web Development & AI Automation Agency landing page featuring high-performance design, interactive cost estimating, services visualizer, full project planner, and free instant consultation scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
